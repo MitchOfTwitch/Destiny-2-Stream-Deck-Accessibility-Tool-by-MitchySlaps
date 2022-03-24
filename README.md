@@ -7,7 +7,8 @@ https://github.com/MitchOfTwitch/StreamDeck/blob/5c5c2d6fb99eb1cad914625d5600902
 <br>
 <br>
 <br>
-**Update 3.23.2022** <br>
+**Update 3.23.2022** <br><br>
+
 -- I have updated multiple options for different inputs to promote improved accessibility with the Stream Deck. <br>
 -- Improved layout and looks. <br>
 -- Added WEBHOOKS for direct messages to a Discord server channel **THAT YOU MUST HAVE PERMISSIONS TO ADD INTEGRATIONS TO!** <br>
@@ -23,8 +24,7 @@ For now, if you want to message a specific channel through webhooks you must do 
 YOU MAY ALSO HAVE TO DELETE A SPACE IN THE WEBHOOK BOX!<br>
  <img width="500" alt="3 23 edit channel" src="https://user-images.githubusercontent.com/53538611/159825953-113ce99c-e074-4561-b095-c0481241cd69.png"><br>
  <img width="232" alt="3 23 edit channel" src="https://user-images.githubusercontent.com/53538611/159826217-46c83476-96b9-4b2b-bb08-65df4d6ec624.png"><br> 
-500
-
+<br>
 <br>Below is how to insert Profile into your own stream deck
 <br>
 <img width="500" alt="Screenshot 2022-03-10 211637" src="https://user-images.githubusercontent.com/53538611/157789434-831364fa-4b9a-456f-9c97-96eec0ba1b57.png">
