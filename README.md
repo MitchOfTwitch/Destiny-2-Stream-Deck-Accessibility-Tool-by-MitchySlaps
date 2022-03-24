@@ -3,7 +3,29 @@
 <br>**Note** Encounters 1 and 4 are as close as I could get to resembling the encounter layout, you may have to squint really hard to see what I'm saying.
 <br>
 Download the file from the link below <br>
+https://github.com/MitchOfTwitch/StreamDeck/blob/5c5c2d6fb99eb1cad914625d5600902a58d69885/VOD%203_23%20Update%20Cleared%20Webhooks.streamDeckProfile
+<br>
+<br>
+<br>
+**Update 3.23.2022** <br>
+-- I have updated multiple options for different inputs to promote improved accessibility with the Stream Deck. <br>
+-- Improved layout and looks. <br>
+-- Added WEBHOOKS for direct messages to a Discord server channel **THAT YOU MUST HAVE PERMISSIONS TO ADD INTEGRATIONS TO!** <br>
+----*(Make your own Discord if you have to)*<br>
+-- Must copy/past webhook to every button for now (for now, I am sorry) <br>
+-- 
+<br>
+For now, if you want to message a specific channel through webhooks you must do the following: <br>
+**EDIT CHANNEL (HOVER OVER CHANNEL YOU HAVE PERMISSIONS TO)**<br>
+<img width="232" alt="3 23 edit channel" src="https://user-images.githubusercontent.com/53538611/159823466-80067612-cd6f-4a3c-b69b-d9589acbcacc.png"><br>
+<br>Follow steps 1-5 to CREATE and COPY/PASTE your Webhook. YOU MUST COPY/PASTE YOUR WEBHOOK INTO EACH BUTTON. <BR>
+<br>
+YOU MAY ALSO HAVE TO DELETE A SPACE IN THE WEBHOOK BOX!<br>
+ <img width="500" alt="3 23 edit channel" src="https://user-images.githubusercontent.com/53538611/159825953-113ce99c-e074-4561-b095-c0481241cd69.png"><br>
+ <img width="232" alt="3 23 edit channel" src="https://user-images.githubusercontent.com/53538611/159826217-46c83476-96b9-4b2b-bb08-65df4d6ec624.png"><br> 
+500
 
+<br>Below is how to insert Profile into your own stream deck
 <br>
 <img width="500" alt="Screenshot 2022-03-10 211637" src="https://user-images.githubusercontent.com/53538611/157789434-831364fa-4b9a-456f-9c97-96eec0ba1b57.png">
 <br>
